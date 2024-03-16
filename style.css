@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.637);
+    color: white;
+    
+}
+.navlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 20px;
+    position: fixed;
+
+}
+
+ul li {
+    margin-left: 30px;
+}
+.logo{
+    width: 50px;
+    height: 50px; 
+    position: relative;
+    top: 2px;
+    
+}
+.logo1{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 4px;
+}
+.logo2{
+    width: 25px;
+    height: 24px;
+    margin-left: 15px;
+}
+.girl{
+    background-image: url(https://www.apple.com/v/home/bj/images/heroes/apple-vision-pro/hero_apple_vision_pro_avail__ecthwv10twsy_largetall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1920px;
+    height: 700px;
+    text-align: center;
+    
+
+   
+}
+.iphone{
+   background-image: url(https://www.apple.com/v/home/bj/images/heroes/iphone-15-pro/hero_iphone15pro__i70z9oz3hj2i_largetall.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 1920px;
+   height: 700px;
+   text-align: center; 
+   color: white;
+}
+.love{
+    background-image: url(https://www.apple.com/v/home/bj/images/heroes/valentines-day-2024/hero_valentines_day_2024__dyne8c2no3ki_largetall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1920px;
+    height: 600px; 
+    text-align: center;
+}
+.text{
+    color: rgb(0, 119, 255);
+    display: flex ;
+    justify-content: center;
+    font-size: 20px;
+    margin-right: 70px;
+}
+p{
+    margin-left: 50px;
+}
+.list{
+    position: relative;
+    top:500px
+}
+.list h2{
+    font-weight:400;
+}
+.control{
+    position: relative;
+    top: 50px;
+}
+.iphone h1{
+    font-size: 50px;
+    
+}
+.iphone h2{
+    font-weight: 300;
+}
+.list2{
+    position: relative;
+    top: 440px;
+}
+.love h1{
+    font-size: 60px;
+}
+.image img{
+    width: 930px;
+    height: 500px;
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.list3{
+    position: relative;
+    top: 25px;
+    text-align: center;
+    
+}
+.list4{
+    position: relative;
+    top: 25px;
+    text-align: center;
+}
+.list4 img{
+     width: 150px;
+     height: 60px;
+}
+.list4 h4{
+    color: white;
+}
+.box img{
+    width: 930px;
+    height: 500px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 10px;
+}
+
+.boxx{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+     top: 20px;
+}
+.n1{
+    background-image: url(https://www.apple.com/v/home/bk/images/heroes/iphone-15/hero_iphone15_announce__uuemlcwczn6u_largetall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 500px;
+}
+.n2{
+   background-image: url(https://www.apple.com/v/home/bk/images/promos/apple-watch-series-9/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 49%;
+   height: 500px;
+}
+.box1{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_large.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 500px;
+}
+.box2{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/ipad/promo_ipad__fioegapg12qi_large.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 500px;
+    
+}
+.card{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/apple-card/tile__cauwwcyyn9hy_large.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 500px;
+}
+.trade{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_large.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 500px;
+}
+#carouselExampleIndicators{
+    width: 80%;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    
+    
+    
+}
+
+.carousel-control-next {
+    right: 1470px;
+  
+}
